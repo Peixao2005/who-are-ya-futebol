@@ -8,3 +8,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
+    :root{--bg:#f8fafc;--card:#ffffff;--text:#0f172a;--muted:#64748b;--border:#e2e8f0;--shadow:0 18px 40px rgba(15,23,42,.08);--green:#10b981;--gray:#4b5563;--red:#ef4444;--accent:#0f172a}
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;font-family:'Inter',system-ui,sans-serif;background:radial-gradient(circle at top, #ffffff 0%, var(--bg) 55%, #eef2ff 100%);color:var(--text)}
+    button,input{font:inherit}
+    .app{min-height:100%;display:grid;place-items:center;padding:28px}
+    .shell{width:min(980px,100%);display:grid;gap:18px;justify-items:center}
+    .top{display:grid;gap:10px;justify-items:center;text-align:center}
+    .mystery{width:128px;height:128px;border-radius:32px;display:grid;place-items:center;background:linear-gradient(180deg,#fff, #f8fafc);box-shadow:var(--shadow);border:1px solid rgba(226,232,240,.8);font-size:4.8rem;font-weight:800;color:#94a3b8;user-select:none}
+    .title{margin:0;font-size:clamp(1.5rem,2.8vw,2.2rem);letter-spacing:-.03em}
+    .subtitle{margin:0;max-width:60ch;color:var(--muted);line-height:1.55}
