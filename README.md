@@ -118,4 +118,15 @@ README.md: apresentação principal do projeto.
 planejamento/: arquivos com proposta, público, identidade visual e estrutura.
 imagens/: prints e elementos visuais do jogo.
 logo/: versões da logo e do símbolo.
-referencias/: inspirações e materiais usados como base.**
+referencias/: inspirações e materiais usados como base.
+
+
+# Trabalho em Equipe
+Para manter o projeto organizado:
+Dividir tarefas entre os integrantes.
+Fazer commits frequentes.
+Manter as pastas organizadas.
+Registrar a evolução no GitHub.
+Revisar os textos e o código antes da entrega.
+Boas práticas
+Cada integrante deve contribuir com parte do conteúdo, do visual ou da lógica do jogo, deixando o histórico de commits mais completo e transparente.
