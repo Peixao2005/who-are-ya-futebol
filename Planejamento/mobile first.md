@@ -1,4 +1,5 @@
-Mobile First
+# Mobile First
+
 O projeto segue o conceito Mobile First porque a maior parte do público acessa jogos pelo celular.
 Por que escolher esse modelo
 O jogo precisa funcionar bem em telas pequenas, com botões fáceis de tocar e conteúdo organizado verticalmente.
