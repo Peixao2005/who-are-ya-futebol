@@ -19,3 +19,23 @@ Criar uma experiência divertida e interativa de adivinhação de jogadores de f
 - Mensagem de vitória quando o jogador é descoberto.
 - Botão para jogar de novo.
 
+# Problema que o jogo resolve
+O jogo transforma o conhecimento sobre futebol em uma experiência rápida e dinâmica, ideal para testar memória, atenção e familiaridade com jogadores famosos.
+# Informações e serviços oferecidos
+Jogo de adivinhação de jogadores.
+Comparação de pistas por atributo.
+Reinício de partida com novo jogador aleatório.
+# Público-alvo
+O projeto foi pensado para:
+
+Gamers
+
+Fãs de futebol
+
+Adolescentes
+
+Estudantes
+
+Pessoas que gostam de desafios rápidos no navegador
+
+
