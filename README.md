@@ -91,3 +91,15 @@ Regras: funcionamento das comparações e condições de vitória.
 Contato: informações fictícias do projeto.
 # Navegação
 A navegação será simples e direta, com foco no acesso rápido ao jogo e às instruções.
+
+
+# Recursos do Site
+O projeto pode utilizar os seguintes recursos:
+Formulário de contato.
+Galeria de imagens.
+Vídeos explicativos.
+Menu responsivo.
+Animações suaves.
+Tela de vitória.
+Botão “Jogar de Novo”.
+Sugestões automáticas de jogadores.
