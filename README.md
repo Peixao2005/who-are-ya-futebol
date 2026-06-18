@@ -65,10 +65,7 @@ Cinza azulado: #94a3b8
 Fontes
 Títulos: Inter
 Textos: Inter
-# Logo
-Ideia inicial: um grande ponto de interrogação central, representando o jogador misterioso, com estilo moderno e minimalista.
-Nome do site
-Who Are Ya? Futebol
+
 # Dados fictícios da empresa
 Nome: Who Are Ya? Futebol
 Telefone: (11) 97777-2222
